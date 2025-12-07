@@ -12,3 +12,16 @@ Integration with intrusion detection systems (IDS), SIEMs, and threat intelligen
 
 Accurate-Cyber-Defense-Network-Forensic-Tool-2025 features a robust graphical user interface with a blue cyber-theme that makes navigation intuitive and forensic processes user-friendly. 
 Through visual flow maps, timeline reconstructions, and advanced filtering options, users can zoom into incidents down to packet payloads or correlate events across multiple endpoints.
+
+## How tpo clone the repo
+
+```bash
+git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Network-Forensic-Tool-2025.git
+cd Accurate-Cyber-Defense-Network-Forensic-Tool-2025
+```
+
+## How to run
+
+```bash
+python3 Accurate-Cyber-Defense-Network-Forensic-Tool-2025
+``` 
